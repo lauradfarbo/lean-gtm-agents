@@ -1,0 +1,21 @@
+# Client working copies never leave the local machine
+clients/
+
+# Environment and secrets
+.env
+*.env
+*.key
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated test output
+*.xlsx
+out/

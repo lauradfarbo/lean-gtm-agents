@@ -1,0 +1,14 @@
+{
+  "rows": [
+    {"week": 1, "date": "2026-03-03", "ampm": "", "content_type": "Customer Proof", "channel": "LinkedIn", "title": "[Placeholder: awaiting approved proof item]", "spec": "LinkedIn post, 120 to 180 words, one image", "status": "Planned"},
+    {"week": 1, "date": "2026-03-04", "ampm": "AM", "content_type": "Blog", "channel": "Website", "title": "Three numbers to check before you build an energy report", "spec": "Blog, 800 to 1,000 words", "status": "Planned"},
+    {"week": 1, "date": "2026-03-04", "ampm": "PM", "content_type": "Blog teaser", "channel": "LinkedIn", "title": "Teaser for the blog: the 22:00 report problem", "spec": "LinkedIn post, 80 to 120 words, link in first comment", "status": "Planned"},
+    {"week": 1, "date": "2026-03-05", "ampm": "", "content_type": "Industry POV", "channel": "LinkedIn", "title": "Why energy reporting belongs with facilities teams", "spec": "LinkedIn post, 150 to 200 words", "status": "Published"},
+    {"week": 2, "date": "2026-03-10", "ampm": "", "content_type": "Partner Win", "channel": "LinkedIn", "title": "[Placeholder: awaiting approved proof item]", "spec": "LinkedIn post, 120 to 180 words", "status": "Planned"},
+    {"week": 2, "date": "2026-03-12", "ampm": "", "content_type": "Poll", "channel": "LinkedIn", "title": "How long does your monthly energy report take?", "spec": "LinkedIn poll, four options, one week", "status": "Proposed"},
+    {"week": 2, "date": "2026-03-13", "ampm": "", "content_type": "Guide push", "channel": "LinkedIn", "title": "Free guide: energy reporting without the spreadsheet", "spec": "LinkedIn document post, guide link in first comment", "status": "Proposed"}
+  ],
+  "milestones": [
+    {"milestone": "Facilities Expo", "type": "Trade show", "start": "2026-04-21", "end": "2026-04-23", "confirmed": "Yes", "notes": "Stand details to follow"}
+  ]
+}
