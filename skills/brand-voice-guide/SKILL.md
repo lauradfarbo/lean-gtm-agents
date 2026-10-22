@@ -48,7 +48,7 @@ Ask these first. Each one changes the output.
 10. **Build the words to use and avoid table** with a reason for every row. Reasons are what let an agent handle words that are not on the list.
 11. **Write the agent rules:** human approval before publishing, a source for every statistic, no customer names without permission, no unannounced pricing, dates or terms, no criticism of named competitors, approved wording only for certifications and safety or regulatory claims.
 12. **Add a pre-publish checklist** a reviewer can run in under a minute.
-13. **List open items for the company to confirm.** Look specifically for inconsistent product or programme names across sources, unconfirmed taglines, unit or spelling mismatches, and claims that need approved wording.
+13. **List open items for the company to confirm.** Look specifically for inconsistent product or program names across sources, unconfirmed taglines, unit or spelling mismatches, and claims that need approved wording.
 
 Use `templates/voice-guide-template.md` for the structure and `examples/example-voice-guide.md` for the expected depth.
 
@@ -56,7 +56,7 @@ Use `templates/voice-guide-template.md` for the structure and `examples/example-
 
 - Never invent proof points, customers, statistics or certifications. Quote only what the sources state, and name the source.
 - Never put a real post in the off-tone section.
-- Never include pricing, funding, order volumes or internal programme terms, even if a source mentions them.
+- Never include pricing, funding, order volumes or internal program terms, even if a source mentions them.
 - Keep the guide to what a drafter needs. If a section would not change a draft, cut it.
 
 ## Outputs

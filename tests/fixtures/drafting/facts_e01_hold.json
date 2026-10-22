@@ -1,0 +1,44 @@
+{
+  "values": [
+    [
+      "ID",
+      "Category",
+      "Claim",
+      "Status",
+      "Source",
+      "Source wording",
+      "Note for approver",
+      "Approver comments"
+    ],
+    [
+      "C02",
+      "Company",
+      "Brightwell Analytics pulls meter readings into one place every day.",
+      "Approved",
+      "Website",
+      "",
+      "",
+      ""
+    ],
+    [
+      "E01",
+      "Event",
+      "Brightwell Analytics runs a webinar on monthly reporting.",
+      "Needs edits",
+      "Plan",
+      "",
+      "",
+      ""
+    ],
+    [
+      "C04",
+      "Product",
+      "Reports export to PDF and CSV.",
+      "Draft",
+      "Product sheet",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

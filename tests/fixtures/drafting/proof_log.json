@@ -1,0 +1,64 @@
+{
+  "values": [
+    [
+      "Date logged",
+      "Type",
+      "Organization",
+      "What happened",
+      "Approved quote (verbatim)",
+      "Sign-off from (name)",
+      "Sign-off status",
+      "Can go public from",
+      "Logged by",
+      "Used in calendar row (agent fills)"
+    ],
+    [
+      "2026-02-10",
+      "Partner",
+      "Northgate Facilities (TEST - fictional)",
+      "Northgate Facilities joined as a reseller for Brightwell Analytics in the UK.",
+      "\"We wanted one report our clients could trust.\" (Dana Hale, Director, Northgate Facilities)",
+      "Dana Hale",
+      "Yes",
+      "2026-02-20",
+      "Sam Ortega",
+      ""
+    ],
+    [
+      "2026-02-12",
+      "Customer",
+      "Harlow Council (TEST - fictional)",
+      "Harlow Council uses Brightwell Analytics for monthly energy reports across 14 sites.",
+      "",
+      "Lee Moss",
+      "Pending",
+      "2026-03-01",
+      "Priya Nair",
+      ""
+    ],
+    [
+      "2026-02-14",
+      "Partner",
+      "Kestrel Energy (TEST - fictional)",
+      "Kestrel Energy agreed to a pilot.",
+      "",
+      "Ana Ruiz",
+      "No",
+      "2026-03-01",
+      "Tom Adeyemi",
+      ""
+    ],
+    [
+      "2026-02-15",
+      "Vendor",
+      "Odd Co",
+      "Something.",
+      "",
+      "",
+      "Yes",
+      "",
+      "Tom Adeyemi",
+      ""
+    ]
+  ]
+}

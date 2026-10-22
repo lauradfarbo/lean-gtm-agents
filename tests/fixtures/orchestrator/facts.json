@@ -1,0 +1,64 @@
+{
+ "values": [
+  [
+   "ID",
+   "Category",
+   "Claim",
+   "Status",
+   "Source",
+   "Source wording",
+   "Note for approver",
+   "Approver comments"
+  ],
+  [
+   "A01",
+   "Product",
+   "Pilot sites cut monthly reporting time by 40% with Brightwell.",
+   "Approved",
+   "Pilot report 2025",
+   "40% less time",
+   "",
+   ""
+  ],
+  [
+   "A04",
+   "Product",
+   "Brightwell uses AI-assisted anomaly detection on meter data.",
+   "Approved with edits",
+   "Product sheet",
+   "",
+   "",
+   "Say AI-assisted"
+  ],
+  [
+   "C02",
+   "Company",
+   "Brightwell follows the GHG Protocol for its reporting templates.",
+   "Approved",
+   "Website",
+   "",
+   "",
+   ""
+  ],
+  [
+   "E01",
+   "Event",
+   "Spring webinar topic and speakers.",
+   "Pending",
+   "",
+   "",
+   "Confirm by 20 MAR 26",
+   ""
+  ],
+  [
+   "X09",
+   "Product",
+   "Brightwell reports are 75% faster than spreadsheets.",
+   "Rejected",
+   "",
+   "",
+   "No source",
+   ""
+  ]
+ ]
+}

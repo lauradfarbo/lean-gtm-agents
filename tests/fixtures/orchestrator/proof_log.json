@@ -1,0 +1,40 @@
+{
+ "values": [
+  [
+   "Date logged",
+   "Type",
+   "Organization",
+   "What happened",
+   "Approved quote (verbatim)",
+   "Sign-off from (name)",
+   "Sign-off status",
+   "Can go public from",
+   "Logged by",
+   "Used in calendar row (agent fills)"
+  ],
+  [
+   "2026-03-04",
+   "Partner",
+   "Northgate Facilities",
+   "Northgate now resells Brightwell reports to 12 sites.",
+   "\"Brightwell gave our clients one report instead of twelve.\"",
+   "Ana Ruiz",
+   "Yes",
+   "2026-03-20",
+   "Tom Adeyemi",
+   ""
+  ],
+  [
+   "2026-03-05",
+   "Customer",
+   "Harbor Cold Storage",
+   "Cut monthly reporting from 3 days to 1.",
+   "",
+   "Lee Park",
+   "No",
+   "",
+   "Priya Nair",
+   ""
+  ]
+ ]
+}

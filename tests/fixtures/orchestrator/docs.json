@@ -1,0 +1,14 @@
+{"content": {"title": "TEST - Drafts - W04", "tabs": [
+ {"tabProperties": {"tabId": "t.w0401", "title": "MON 23 MAR 26"}, "documentTab": {"body": {"content": [
+   {"paragraph": {"elements": [{"textRun": {"content": "Final post text line one.\n"}}]}},
+   {"paragraph": {"elements": [{"textRun": {"content": "Line two.\n"}}]}},
+   {"paragraph": {"elements": [{"textRun": {"content": "\n"}}]}},
+   {"paragraph": {"elements": [{"textRun": {"content": "----------\n"}}]}},
+   {"paragraph": {"elements": [{"textRun": {"content": "Alternate hook: something else.\n"}}]}},
+   {"table": {"tableRows": [{"tableCells": [
+     {"content": [{"paragraph": {"elements": [{"textRun": {"content": "Fact\n"}}]}}]},
+     {"content": [{"paragraph": {"elements": [{"textRun": {"content": "A01\n"}}]}}]}]}]}},
+   {"paragraph": {"elements": [{"textRun": {"content": "End of draft\n"}}]}}
+ ]}},
+ "childTabs": []}
+]}}

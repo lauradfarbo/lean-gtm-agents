@@ -1,0 +1,7 @@
+[
+ {"row": 10, "col": "Date", "value": "Tue 24 MAR 26"},
+ {"row": 13, "col": "Status", "value": "Approved", "check": "pass"},
+ {"row": 8, "col": "Notes", "value": "Orchestrator 16 MAR 26: note on a cancelled row."},
+ {"row": 7, "col": "Title / angle", "value": "A new title"},
+ {"row": 99, "col": "Notes", "value": "No such row."}
+]

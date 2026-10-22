@@ -83,8 +83,8 @@ Invented examples only.
 - Draft only. Every post requires human approval before publishing.
 - Every statistic names its source.
 - No customer names, logos or quotes without written permission.
-- No pricing, volumes, funding, programme terms or unannounced dates.
-- Never criticise a named competitor.
+- No pricing, volumes, funding, program terms or unannounced dates.
+- Never criticize a named competitor.
 - Approved wording only for certification, safety and regulatory claims.
 
 ## 11. Pre-publish checklist

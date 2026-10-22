@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "company": {
+    "name": "Brightwell Analytics",
+    "approver": {"name": "Sam Ortega", "role": "Head of Operations"},
+    "people": ["Sam Ortega", "Priya Nair", "Tom Adeyemi"],
+    "timezone": "Europe/London",
+    "holiday_market": "UK"
+  },
+  "writing": {"competitors": ["examplecorp", "metermate"]},
+  "calendar": {
+    "team_owned_regex": "Publish|Newsletter|Distribute",
+    "proof_types": {"Partner": "Partner Win", "Customer": "Customer Proof"},
+    "proof_placeholders": {"Partner Win": "Partner news (to confirm)", "Customer Proof": "Customer story (to confirm)"},
+    "teaser_regex": "LinkedIn teaser",
+    "statuses": ["Proposed", "Planned", "Draft ready", "Approved", "Posted", "Cancelled"]
+  },
+  "plan": {
+    "week1_monday": "2026-03-02",
+    "posts_per_week": [2, 4],
+    "proof_slot": {"weekday": "Tue", "odd_weeks": "Partner Win", "even_weeks": "Customer Proof"},
+    "blog_pair": {"weekday": "Wed", "weeks": "odd"},
+    "rotation_slot": {"weekday": "Thu", "types": ["Industry POV", "Poll", "Guide push"]},
+    "pdf": {"stop_regex": "^\\s*(Wk\\s+Date\\b|\\d+ dated line items)"}
+  },
+  "swaps": {"source_label": "Guide"}
+}
